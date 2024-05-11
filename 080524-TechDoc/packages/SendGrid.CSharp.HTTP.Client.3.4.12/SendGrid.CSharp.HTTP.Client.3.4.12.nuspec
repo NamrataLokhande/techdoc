@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SendGrid.CSharp.HTTP.Client</id>
+    <version>3.4.12</version>
+    <title>SendGrid.CSharp.HTTP.Client</title>
+    <authors>Twilio</authors>
+    <owners>Twilio</owners>
+    <licenseUrl>https://www.nuget.org/packages/SendGrid.CSharp.HTTP.Client/3.4.12/license</licenseUrl>
+    <projectUrl>https://sendgrid.com/</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/sendgrid.csharp.http.client/3.4.12/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A Simple Fluent REST API Client.</description>
+    <summary />
+    <copyright>Copyright Twilio SendGrid 2020</copyright>
+    <tags>Twilio SendGrid Email Mail Microsoft Azure Transactional .NET Core</tags>
+  </metadata>
+</package>

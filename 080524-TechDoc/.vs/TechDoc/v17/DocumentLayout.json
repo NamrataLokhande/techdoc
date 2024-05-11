@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Visual Studio 2013\\Projects\\080524-TechDoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D39A30A0-07E8-4295-A8F3-DBB8525530A8}|TechDoc\\TechDoc.csproj|c:\\users\\admin\\documents\\visual studio 2013\\projects\\080524-techdoc\\techdoc\\13-pick.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39A30A0-07E8-4295-A8F3-DBB8525530A8}|TechDoc\\TechDoc.csproj|solutionrelative:techdoc\\13-pick.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39A30A0-07E8-4295-A8F3-DBB8525530A8}|TechDoc\\TechDoc.csproj|c:\\users\\admin\\documents\\visual studio 2013\\projects\\080524-techdoc\\techdoc\\create_vie_mail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D39A30A0-07E8-4295-A8F3-DBB8525530A8}|TechDoc\\TechDoc.csproj|solutionrelative:techdoc\\create_vie_mail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39A30A0-07E8-4295-A8F3-DBB8525530A8}|TechDoc\\TechDoc.csproj|C:\\Users\\Admin\\Documents\\Visual Studio 2013\\Projects\\080524-TechDoc\\techdoc\\email_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D39A30A0-07E8-4295-A8F3-DBB8525530A8}|TechDoc\\TechDoc.csproj|solutionrelative:techdoc\\email_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39A30A0-07E8-4295-A8F3-DBB8525530A8}|TechDoc\\TechDoc.csproj|C:\\Users\\Admin\\Documents\\Visual Studio 2013\\Projects\\080524-TechDoc\\techdoc\\email_login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39A30A0-07E8-4295-A8F3-DBB8525530A8}|TechDoc\\TechDoc.csproj|solutionrelative:techdoc\\email_login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "13-Pick.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Visual Studio 2013\\Projects\\080524-TechDoc\\TechDoc\\13-Pick.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TechDoc\\13-Pick.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Visual Studio 2013\\Projects\\080524-TechDoc\\TechDoc\\13-Pick.aspx.designer.cs",
+              "RelativeToolTip": "TechDoc\\13-Pick.aspx.designer.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAWwHsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:35:04.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create_vie_mail.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Visual Studio 2013\\Projects\\080524-TechDoc\\TechDoc\\Create_vie_mail.aspx",
+              "RelativeDocumentMoniker": "TechDoc\\Create_vie_mail.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Visual Studio 2013\\Projects\\080524-TechDoc\\TechDoc\\Create_vie_mail.aspx",
+              "RelativeToolTip": "TechDoc\\Create_vie_mail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T04:53:51.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Email_login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Visual Studio 2013\\Projects\\080524-TechDoc\\TechDoc\\Email_login.aspx.cs",
+              "RelativeDocumentMoniker": "TechDoc\\Email_login.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Visual Studio 2013\\Projects\\080524-TechDoc\\TechDoc\\Email_login.aspx.cs",
+              "RelativeToolTip": "TechDoc\\Email_login.aspx.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAIAywHkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:42:12.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Email_login.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Visual Studio 2013\\Projects\\080524-TechDoc\\TechDoc\\Email_login.aspx",
+              "RelativeDocumentMoniker": "TechDoc\\Email_login.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Visual Studio 2013\\Projects\\080524-TechDoc\\TechDoc\\Email_login.aspx",
+              "RelativeToolTip": "TechDoc\\Email_login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T04:35:29.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

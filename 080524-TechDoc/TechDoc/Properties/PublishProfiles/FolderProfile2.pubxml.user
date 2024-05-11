@@ -1,0 +1,910 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\techdocpublish\TechDoc</_PublishTargetUrl>
+    <History>True|2024-05-08T04:37:50.0594430Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="1-Loading_page.aspx">
+      <publishTime>05/07/2024 17:47:01</publishTime>
+    </File>
+    <File Include="10-tablet.aspx">
+      <publishTime>05/07/2024 17:55:52</publishTime>
+    </File>
+    <File Include="11-laptop.aspx">
+      <publishTime>05/07/2024 13:13:54</publishTime>
+    </File>
+    <File Include="12-entermodel.aspx">
+      <publishTime>05/07/2024 13:22:25</publishTime>
+    </File>
+    <File Include="13-Pick.aspx">
+      <publishTime>05/07/2024 13:22:25</publishTime>
+    </File>
+    <File Include="14-Pick1.aspx">
+      <publishTime>05/08/2024 09:54:15</publishTime>
+    </File>
+    <File Include="15-Delivery.aspx">
+      <publishTime>05/07/2024 14:50:35</publishTime>
+    </File>
+    <File Include="16-Manage_adddress.aspx">
+      <publishTime>05/07/2024 14:50:34</publishTime>
+    </File>
+    <File Include="2-FrontFrame.aspx">
+      <publishTime>05/07/2024 14:50:34</publishTime>
+    </File>
+    <File Include="3-Enter_mobile.aspx">
+      <publishTime>05/07/2024 17:47:00</publishTime>
+    </File>
+    <File Include="4-OTP_page.aspx">
+      <publishTime>05/07/2024 17:47:01</publishTime>
+    </File>
+    <File Include="5-Welcome_page.aspx">
+      <publishTime>04/15/2024 15:09:15</publishTime>
+    </File>
+    <File Include="6-Personal_details.aspx">
+      <publishTime>05/07/2024 14:50:34</publishTime>
+    </File>
+    <File Include="7-Profile_details.aspx">
+      <publishTime>05/07/2024 14:50:34</publishTime>
+    </File>
+    <File Include="8-logout.aspx">
+      <publishTime>05/07/2024 14:50:34</publishTime>
+    </File>
+    <File Include="9-mobile.aspx">
+      <publishTime>05/07/2024 14:46:48</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Account/Manage.aspx">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Account/OpenAuthProviders.ascx">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Account/RegisterExternalLogin.aspx">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.UI.Combined.dll">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.AspNet.dll">
+      <publishTime>03/20/2024 10:18:16</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.Core.dll">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Consumer.dll">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.dll">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.dll">
+      <publishTime>03/20/2024 10:18:16</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.dll">
+      <publishTime>03/20/2024 10:18:16</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/20/2024 10:18:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>03/20/2024 10:18:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Membership.OpenAuth.dll">
+      <publishTime>03/20/2024 10:18:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>03/20/2024 10:18:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="bin/SendGrid.CSharp.HTTP.Client.dll">
+      <publishTime>04/16/2024 15:08:53</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="bin/TechDoc.dll">
+      <publishTime>05/08/2024 10:07:48</publishTime>
+    </File>
+    <File Include="bin/TechDoc.pdb">
+      <publishTime>05/08/2024 10:07:48</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Bundle.config">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Complaint.aspx">
+      <publishTime>05/07/2024 17:50:26</publishTime>
+    </File>
+    <File Include="Complaintissue.aspx">
+      <publishTime>05/07/2024 14:50:09</publishTime>
+    </File>
+    <File Include="ComplaintLaptop.aspx">
+      <publishTime>04/04/2024 10:50:48</publishTime>
+    </File>
+    <File Include="ComplaintMobile.aspx">
+      <publishTime>04/04/2024 11:37:04</publishTime>
+    </File>
+    <File Include="ComplaintTab.aspx">
+      <publishTime>04/04/2024 10:55:00</publishTime>
+    </File>
+    <File Include="contact.aspx">
+      <publishTime>05/07/2024 14:53:50</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_222222_256x240.png">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_454545_256x240.png">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_888888_256x240.png">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery-ui.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.accordion.css">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.all.css">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.autocomplete.css">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.base.css">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.button.css">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.core.css">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.datepicker.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.dialog.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.progressbar.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.resizable.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.selectable.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.slider.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.tabs.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.theme.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_222222_256x240.png">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_454545_256x240.png">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_888888_256x240.png">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery-ui.min.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.accordion.min.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.autocomplete.min.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.button.min.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.core.min.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.datepicker.min.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.dialog.min.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.progressbar.min.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.resizable.min.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.selectable.min.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.slider.min.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.tabs.min.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.theme.min.css">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Create_vie_mail.aspx">
+      <publishTime>05/08/2024 09:52:20</publishTime>
+    </File>
+    <File Include="Email_login.aspx">
+      <publishTime>05/08/2024 10:06:53</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="forgetpassword.aspx">
+      <publishTime>05/07/2024 14:53:40</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Help_page.aspx">
+      <publishTime>04/11/2024 15:34:14</publishTime>
+    </File>
+    <File Include="Images/1.png">
+      <publishTime>04/04/2024 17:21:46</publishTime>
+    </File>
+    <File Include="Images/11997728.jpg">
+      <publishTime>03/26/2024 15:16:22</publishTime>
+    </File>
+    <File Include="Images/accent.png">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Images/acer.jpg">
+      <publishTime>03/20/2024 15:27:14</publishTime>
+    </File>
+    <File Include="Images/address.png">
+      <publishTime>03/29/2024 11:03:18</publishTime>
+    </File>
+    <File Include="Images/Allinone.png">
+      <publishTime>03/26/2024 14:44:26</publishTime>
+    </File>
+    <File Include="Images/apple %28laptop%29.jpg">
+      <publishTime>03/20/2024 15:27:26</publishTime>
+    </File>
+    <File Include="Images/apple %28tab%29.jpg">
+      <publishTime>03/20/2024 15:24:16</publishTime>
+    </File>
+    <File Include="Images/apple.jpg">
+      <publishTime>03/20/2024 15:22:24</publishTime>
+    </File>
+    <File Include="Images/Apple.png">
+      <publishTime>03/20/2024 15:08:30</publishTime>
+    </File>
+    <File Include="Images/art-of-logout-removebg-preview.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/ASD.png">
+      <publishTime>04/04/2024 17:14:58</publishTime>
+    </File>
+    <File Include="Images/asus.jpg">
+      <publishTime>03/20/2024 15:27:30</publishTime>
+    </File>
+    <File Include="Images/avita.jpg">
+      <publishTime>03/20/2024 15:27:36</publishTime>
+    </File>
+    <File Include="Images/background.jpg">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/banner.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/black-arrow-left-11375.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/bullet.png">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Images/BW-help-removebg-preview.png">
+      <publishTime>04/11/2024 11:51:34</publishTime>
+    </File>
+    <File Include="Images/BW-logout-removebg-preview.png">
+      <publishTime>04/11/2024 11:54:32</publishTime>
+    </File>
+    <File Include="Images/BW-profile-removebg-preview.png">
+      <publishTime>04/11/2024 12:02:32</publishTime>
+    </File>
+    <File Include="Images/BW-setting-removebg-preview.png">
+      <publishTime>04/11/2024 11:53:08</publishTime>
+    </File>
+    <File Include="Images/BW-user-removebg-preview.png">
+      <publishTime>04/11/2024 11:47:44</publishTime>
+    </File>
+    <File Include="Images/call-removebg-preview.jpeg">
+      <publishTime>04/17/2024 17:25:22</publishTime>
+    </File>
+    <File Include="Images/cantfind-removebg-preview.png">
+      <publishTime>03/28/2024 13:43:16</publishTime>
+    </File>
+    <File Include="Images/checkmark-png-25953 - Copy.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/close.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/complaint-ezgif.com-webp-to-png-converter.png">
+      <publishTime>03/29/2024 11:02:34</publishTime>
+    </File>
+    <File Include="Images/Contact us.jpeg">
+      <publishTime>04/17/2024 17:25:22</publishTime>
+    </File>
+    <File Include="Images/CustomerComplaint.png">
+      <publishTime>03/20/2024 11:37:36</publishTime>
+    </File>
+    <File Include="Images/DEL.png">
+      <publishTime>03/26/2024 11:22:48</publishTime>
+    </File>
+    <File Include="Images/deliver.jpg">
+      <publishTime>03/26/2024 11:22:50</publishTime>
+    </File>
+    <File Include="Images/dell.jpg">
+      <publishTime>03/20/2024 15:27:40</publishTime>
+    </File>
+    <File Include="Images/DELLI.jpg">
+      <publishTime>03/26/2024 11:22:52</publishTime>
+    </File>
+    <File Include="Images/DELLL.jpg">
+      <publishTime>03/26/2024 11:23:54</publishTime>
+    </File>
+    <File Include="Images/desktop.jpeg">
+      <publishTime>04/17/2024 17:11:04</publishTime>
+    </File>
+    <File Include="Images/desktop.jpg">
+      <publishTime>04/12/2024 11:58:34</publishTime>
+    </File>
+    <File Include="Images/devt.jpg">
+      <publishTime>03/26/2024 11:22:52</publishTime>
+    </File>
+    <File Include="Images/enter number.jpg">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/enter_number-transformed-ezgif.com-webp-to-png-converter-removebg-preview.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/FAQ.png">
+      <publishTime>04/11/2024 15:25:18</publishTime>
+    </File>
+    <File Include="Images/google.jpg">
+      <publishTime>03/20/2024 15:20:58</publishTime>
+    </File>
+    <File Include="Images/google_map.png">
+      <publishTime>04/04/2024 13:46:54</publishTime>
+    </File>
+    <File Include="Images/handwave-removebg-preview.png">
+      <publishTime>04/04/2024 16:07:14</publishTime>
+    </File>
+    <File Include="Images/handwave.png">
+      <publishTime>04/04/2024 16:05:46</publishTime>
+    </File>
+    <File Include="Images/hardware.jpeg">
+      <publishTime>04/13/2024 16:57:50</publishTime>
+    </File>
+    <File Include="Images/hardware.png">
+      <publishTime>04/11/2024 12:16:10</publishTime>
+    </File>
+    <File Include="Images/header.jpeg">
+      <publishTime>04/13/2024 16:57:50</publishTime>
+    </File>
+    <File Include="Images/heroAccent.png">
+      <publishTime>03/26/2024 11:22:56</publishTime>
+    </File>
+    <File Include="Images/hide.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/honor %28tab%29.jpg">
+      <publishTime>03/20/2024 15:24:28</publishTime>
+    </File>
+    <File Include="Images/honor.jpg">
+      <publishTime>03/20/2024 15:22:02</publishTime>
+    </File>
+    <File Include="Images/hp.jpg">
+      <publishTime>03/20/2024 15:27:48</publishTime>
+    </File>
+    <File Include="Images/huawai tab.jpg">
+      <publishTime>03/20/2024 15:24:40</publishTime>
+    </File>
+    <File Include="Images/HW.jpeg">
+      <publishTime>04/13/2024 17:06:44</publishTime>
+    </File>
+    <File Include="Images/icons8-my-location-48.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/infinix.jpg">
+      <publishTime>03/20/2024 15:22:08</publishTime>
+    </File>
+    <File Include="Images/iqoo.jpg">
+      <publishTime>03/20/2024 15:22:16</publishTime>
+    </File>
+    <File Include="Images/istockphoto-1325240511-612x612.jpg">
+      <publishTime>03/26/2024 11:22:58</publishTime>
+    </File>
+    <File Include="Images/Laptop - Copy.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/laptop-computer-repair-technician-personal-computer-desktop-computers-technology-frame-b38f265aa59e2fcec4cdbacf6eccde1e.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/laptop.png">
+      <publishTime>03/20/2024 13:39:20</publishTime>
+    </File>
+    <File Include="Images/Laptop1 - Copy.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/LaptopImg.jpeg">
+      <publishTime>04/17/2024 17:11:04</publishTime>
+    </File>
+    <File Include="Images/laptop_repair-removebg-preview.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/left-arrow.jpg">
+      <publishTime>04/25/2024 15:32:20</publishTime>
+    </File>
+    <File Include="Images/lenevo tab.jpg">
+      <publishTime>03/20/2024 15:25:06</publishTime>
+    </File>
+    <File Include="Images/lenovo laptop.jpg">
+      <publishTime>03/20/2024 15:28:00</publishTime>
+    </File>
+    <File Include="Images/lg.jpg">
+      <publishTime>03/20/2024 15:28:06</publishTime>
+    </File>
+    <File Include="Images/location.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/logout.png">
+      <publishTime>03/29/2024 11:04:18</publishTime>
+    </File>
+    <File Include="Images/mainlogout-removebg-preview.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/mainlogout.jpg">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/mi %28laptop%29.jpg">
+      <publishTime>03/20/2024 15:28:40</publishTime>
+    </File>
+    <File Include="Images/mi %28tab%29.jpg">
+      <publishTime>03/20/2024 15:25:46</publishTime>
+    </File>
+    <File Include="Images/mi.jpg">
+      <publishTime>03/20/2024 15:22:38</publishTime>
+    </File>
+    <File Include="Images/microsoft.jpg">
+      <publishTime>03/20/2024 15:28:54</publishTime>
+    </File>
+    <File Include="Images/mobileDevic.png">
+      <publishTime>03/20/2024 13:38:36</publishTime>
+    </File>
+    <File Include="Images/motorola %28tab%29.jpg">
+      <publishTime>03/20/2024 15:25:58</publishTime>
+    </File>
+    <File Include="Images/motorola.jpg">
+      <publishTime>03/20/2024 15:22:44</publishTime>
+    </File>
+    <File Include="Images/msi.jpg">
+      <publishTime>03/20/2024 15:29:06</publishTime>
+    </File>
+    <File Include="Images/NewBW-setting.png">
+      <publishTime>04/11/2024 14:36:22</publishTime>
+    </File>
+    <File Include="Images/new_user-removebg-preview.png">
+      <publishTime>04/11/2024 13:23:30</publishTime>
+    </File>
+    <File Include="Images/nokia %28laptop%29.jpg">
+      <publishTime>03/20/2024 15:29:22</publishTime>
+    </File>
+    <File Include="Images/nokia %28tab%29.jpg">
+      <publishTime>03/20/2024 15:26:08</publishTime>
+    </File>
+    <File Include="Images/nokia.jpg">
+      <publishTime>03/20/2024 15:23:04</publishTime>
+    </File>
+    <File Include="Images/oneplus.jpg">
+      <publishTime>03/20/2024 15:23:00</publishTime>
+    </File>
+    <File Include="Images/oppo %28tab%29.jpg">
+      <publishTime>03/20/2024 15:26:36</publishTime>
+    </File>
+    <File Include="Images/oppo.jpg">
+      <publishTime>03/20/2024 15:23:16</publishTime>
+    </File>
+    <File Include="Images/orderedList0.png">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Images/orderedList1.png">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Images/orderedList2.png">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Images/orderedList3.png">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Images/orderedList4.png">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Images/orderedList5.png">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Images/orderedList6.png">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Images/orderedList7.png">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Images/orderedList8.png">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Images/orderedList9.png">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Images/OTP.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/otpcode-ezgif.com-webp-to-png-converter.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/pngwing.com.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/poco.jpg">
+      <publishTime>03/20/2024 15:23:34</publishTime>
+    </File>
+    <File Include="Images/profile icon.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/profile update1.jpeg">
+      <publishTime>04/17/2024 16:57:16</publishTime>
+    </File>
+    <File Include="Images/profile.png">
+      <publishTime>03/29/2024 11:02:02</publishTime>
+    </File>
+    <File Include="Images/profile_icon-removebg-preview.png">
+      <publishTime>03/29/2024 11:00:48</publishTime>
+    </File>
+    <File Include="Images/profile_update.jpeg">
+      <publishTime>04/15/2024 16:41:25</publishTime>
+    </File>
+    <File Include="Images/projector.jfif">
+      <publishTime>04/12/2024 12:01:26</publishTime>
+    </File>
+    <File Include="Images/Projector.jpeg">
+      <publishTime>04/17/2024 17:11:04</publishTime>
+    </File>
+    <File Include="Images/projector.png">
+      <publishTime>04/12/2024 12:04:24</publishTime>
+    </File>
+    <File Include="Images/pune_google_map.png">
+      <publishTime>04/04/2024 13:44:28</publishTime>
+    </File>
+    <File Include="Images/realme %28laptop%29.jpg">
+      <publishTime>03/20/2024 15:29:30</publishTime>
+    </File>
+    <File Include="Images/realme %28tab%29.jpg">
+      <publishTime>03/20/2024 15:26:46</publishTime>
+    </File>
+    <File Include="Images/realme.jpg">
+      <publishTime>03/20/2024 15:23:40</publishTime>
+    </File>
+    <File Include="Images/Registericon.jpeg">
+      <publishTime>04/17/2024 17:00:04</publishTime>
+    </File>
+    <File Include="Images/rere.jpg">
+      <publishTime>03/26/2024 11:22:58</publishTime>
+    </File>
+    <File Include="Images/right.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/samsung %28laptop%29.jpg">
+      <publishTime>03/20/2024 15:29:40</publishTime>
+    </File>
+    <File Include="Images/samsung %28tab%29.jpg">
+      <publishTime>03/20/2024 15:26:56</publishTime>
+    </File>
+    <File Include="Images/samsung.jpg">
+      <publishTime>03/20/2024 15:23:46</publishTime>
+    </File>
+    <File Include="Images/search.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/server1.png">
+      <publishTime>04/12/2024 12:38:46</publishTime>
+    </File>
+    <File Include="Images/setting.png">
+      <publishTime>03/29/2024 11:03:44</publishTime>
+    </File>
+    <File Include="Images/Settings new.jpg">
+      <publishTime>04/11/2024 14:38:02</publishTime>
+    </File>
+    <File Include="Images/show.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/signout-ezgif.com-webp-to-png-converter.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/software.jpeg">
+      <publishTime>04/13/2024 16:57:50</publishTime>
+    </File>
+    <File Include="Images/software.png">
+      <publishTime>04/11/2024 12:10:54</publishTime>
+    </File>
+    <File Include="Images/sony %28laptop%29.jpg">
+      <publishTime>03/20/2024 15:29:52</publishTime>
+    </File>
+    <File Include="Images/sony.jpg">
+      <publishTime>03/20/2024 15:23:50</publishTime>
+    </File>
+    <File Include="Images/SW.jpeg">
+      <publishTime>04/13/2024 17:06:44</publishTime>
+    </File>
+    <File Include="Images/tablet.png">
+      <publishTime>03/20/2024 13:38:50</publishTime>
+    </File>
+    <File Include="Images/tablet1.jfif">
+      <publishTime>04/12/2024 12:18:10</publishTime>
+    </File>
+    <File Include="Images/tablet1.png">
+      <publishTime>04/12/2024 12:20:02</publishTime>
+    </File>
+    <File Include="Images/TabletImg.jpeg">
+      <publishTime>04/17/2024 17:11:04</publishTime>
+    </File>
+    <File Include="Images/toshiba.jpg">
+      <publishTime>03/20/2024 15:29:58</publishTime>
+    </File>
+    <File Include="Images/user new.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/user-removebg-preview.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/user.jpg">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/vivo.jpg">
+      <publishTime>03/20/2024 15:23:58</publishTime>
+    </File>
+    <File Include="Images/web-design-2906159_640.jpg">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/WhatsApp Image 2024-03-12 at 1.13.35 PM %282%29.jpeg">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/WhatsApp Image 2024-03-12 at 1.13.35 PM.jpeg">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Images/Workstation.jpeg">
+      <publishTime>04/17/2024 17:11:04</publishTime>
+    </File>
+    <File Include="Images/young-man-enter-number-for-for-two-step-verification-8236908-6577592-ezgif.com-webp-to-png-converter.png">
+      <publishTime>03/26/2024 11:26:18</publishTime>
+    </File>
+    <File Include="Locate.aspx">
+      <publishTime>03/26/2024 15:13:34</publishTime>
+    </File>
+    <File Include="Model1.edmx.diagram">
+      <publishTime>03/23/2024 10:47:06</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/16/2024 15:08:53</publishTime>
+    </File>
+    <File Include="Profile.aspx">
+      <publishTime>03/26/2024 15:13:34</publishTime>
+    </File>
+    <File Include="Scripts/datagridview.js">
+      <publishTime>04/22/2024 13:03:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.8.2.js">
+      <publishTime>03/20/2024 10:18:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.8.2.min.js">
+      <publishTime>03/20/2024 10:18:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.8.24.js">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.8.24.min.js">
+      <publishTime>03/20/2024 10:18:10</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>03/20/2024 10:18:12</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/DetailsView.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Focus.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/GridView.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Menu.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MenuStandards.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/SmartNav.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/TreeView.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebForms.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebParts.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebUIValidation.js">
+      <publishTime>03/20/2024 10:18:14</publishTime>
+    </File>
+    <File Include="Setting_page.aspx">
+      <publishTime>04/11/2024 15:43:54</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>03/20/2024 10:18:02</publishTime>
+    </File>
+    <File Include="Site.Mobile.Master">
+      <publishTime>03/20/2024 10:18:18</publishTime>
+    </File>
+    <File Include="Test.aspx">
+      <publishTime>03/28/2024 15:54:24</publishTime>
+    </File>
+    <File Include="Thank_you.aspx">
+      <publishTime>05/07/2024 14:53:32</publishTime>
+    </File>
+    <File Include="ViewSwitcher.ascx">
+      <publishTime>03/20/2024 10:18:18</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/08/2024 10:07:48</publishTime>
+    </File>
+    <File Include="z1About.aspx">
+      <publishTime>03/20/2024 11:59:28</publishTime>
+    </File>
+    <File Include="z1Contact.aspx">
+      <publishTime>03/20/2024 11:59:28</publishTime>
+    </File>
+    <File Include="z1Default.aspx">
+      <publishTime>03/20/2024 11:59:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
